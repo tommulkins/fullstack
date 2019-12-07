@@ -1,10 +1,10 @@
 {
   "name": "fullstack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full stack for Frontend Engineers @ Frontend Masters",
   "main": "index.js",
   "scripts": {
-    "server": "node src/simpleServer.js",
+    "start": "node src/simpleServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": " <Tom Mulkins>",
@@ -13,6 +13,7 @@
     "eslint": "^6.7.2",
     "eslint-config-prettier": "^6.7.0",
     "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-html": "^6.0.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-prettier": "^3.1.1",
